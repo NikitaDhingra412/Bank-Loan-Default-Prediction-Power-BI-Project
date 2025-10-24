@@ -94,7 +94,8 @@ This project focuses on analyzing bank loan performance and identifying default 
 ├── Bank Loan Data Analysis.pbix                        # Power BI Dashboard
 ├── financial_loan.csv                                  # Dataset
 ├── SQL Queries for Bank Loan Analysis.sql              # SQL business queries
-├── Results from SQL for Bank Loan Analysis.docx         # Query results documentation
+├── Results from SQL for Bank Loan Analysis.docx        # Query results documentation
+├── Screenshots/                                        # Folder containing dashboard images
 └── README.md
 ```
 
