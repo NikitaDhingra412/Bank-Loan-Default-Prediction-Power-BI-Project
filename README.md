@@ -91,9 +91,10 @@ This project focuses on analyzing bank loan performance and predicting default r
 ## 8. Repository Structure
 
 ```
-├── BankLoanDefault.pbix               # Power BI Dashboard
-├── dataset/                           # Input data (optional)
-├── SQL Queries/                       # Extracted business queries
+├── Bank Loan Data Analysis.pbix                              # Power BI Dashboard
+├── Financial_loan.csv                                        # Input data (optional)
+├── SQL Queries for Bank Loan Analysis.sql                    # Extracted business 
+├── Result from SQL Queries for Bank Loan Analysis.docx       # Extracted business queries
 └── README.md
 ```
 
