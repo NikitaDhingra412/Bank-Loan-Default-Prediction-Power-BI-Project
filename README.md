@@ -116,5 +116,3 @@ This project focuses on analyzing bank loan performance and identifying default 
 * Advanced forecasting and risk scoring models
 
 ---
-Would you like me to create a **Screenshots** section?
-If yes — please upload 2–4 images of your dashboard views.
